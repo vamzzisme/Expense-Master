@@ -12,8 +12,7 @@ This is an application made using Flutter and Dart. Helps you to trackdown down 
 4. It is not recognised by Google Play Protect, so please install the application only if you feel safe about the authors
 5. Your data is not being collected at any point in the application, it is stored in user's locale phone storage
 6. Any resemblence of a widget or a functionality is purely coincidental and not intentional
-7. To Download the application download the .apk file and run it on your device
-
+7. To Download the application download the .apk file and run it on your device (size of file: 20.8mb)
 ### Screenshots
 ![1](https://github.com/vamzzisme/Expense-Master/assets/156214149/2dd10280-0e03-483a-abe0-ac5de21c9b2e)
 ![2](https://github.com/vamzzisme/Expense-Master/assets/156214149/940e7636-99e3-4fd1-8518-1004304657fa)
