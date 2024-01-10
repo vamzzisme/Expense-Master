@@ -1,8 +1,8 @@
-# expense_master
+# Expense Master
 
 This is an application made using Flutter and Dart. Helps you to trackdown down your expenses category wise and have it stored for your future reference and helps you to plan your expenses
 
-## Getting Started
+## Application Info
 1. There are 3 pages in this application
    - Expenses (shows you the list of your expenses)
    - Add (allows you to add your new expense)
